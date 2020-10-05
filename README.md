@@ -3,4 +3,4 @@ Lab exercise to create a basic repo
 
 Hello!
 
-This is justa  test readme file to finish an exercise.
+This is just a  test readme file to finish an exercise.
